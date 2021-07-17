@@ -1,0 +1,7 @@
+organization=someone180619
+projectKey=Someone180619_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=Someone180619_ProyectoJavaMaven
+ceTaskId=AXqxmIazXLVVAP10rFWr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqxmIazXLVVAP10rFWr
