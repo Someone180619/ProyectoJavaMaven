@@ -1,6 +1,6 @@
-public class Seleccion {
+public class seleccion {
     public static void seleccion(int[]matrix){
-        int i, k, p, buffer, limit = matrix.lenght-1;
+        int i, k, p, buffer, limit = matrix.length-1;
         for(k = 0; k <= limit; k++){
             p = k;
             for(i = k+1; i <= limit; i++){
